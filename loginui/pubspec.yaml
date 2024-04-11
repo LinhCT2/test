@@ -11,6 +11,13 @@ dependencies:
     sdk: flutter
   font_awesome_flutter: ^10.7.0
   dropdown_button2: ^2.3.9
+  google_fonts: ^6.2.1
+
+fonts:
+  - family: OpenSans
+    fonts:
+      - asset: assets/fonts/OpenSans-Regular.ttf
+
 
 dev_dependencies:
   flutter_test:
@@ -26,3 +33,5 @@ flutter:
     - image/fb.png
     - image/gg.png
     - image/profile_pic.png
+    - image/pic3.jpg
+    - image/pic4.jpg
