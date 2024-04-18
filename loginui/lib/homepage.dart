@@ -81,10 +81,6 @@ class _homePageState extends State<homePage> {
               color: Color.fromRGBO(255, 192, 192, 1),
             ),
           ),
-          // image: DecorationImage(
-          //   image: AssetImage('image/pic2.jpg'),
-          //   fit: BoxFit.fill,
-          // ),
         ),
         // padding: EdgeInsets.fromLTRB(30, 0, 30, 0),
         constraints: BoxConstraints.expand(),
