@@ -8,12 +8,13 @@ import 'package:loginui/forget_password.dart';
 import 'package:loginui/homepage.dart';
 
 import 'package:google_fonts/google_fonts.dart';
+import 'package:loginui/notifications.dart';
 import 'sign_in.dart';
 import 'login.dart';
 
 void main() {
   runApp(MaterialApp(
     title: 'Ứng dụng của tôi',
-    home: explore(),
+    home: notifications(),
   ));
 }
