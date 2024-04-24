@@ -11,6 +11,7 @@ import 'package:loginui/homepage.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:loginui/notifications.dart';
 import 'package:loginui/profile.dart';
+import 'package:loginui/profile_main.dart';
 import 'package:loginui/settings.dart';
 import 'sign_in.dart';
 import 'login.dart';
@@ -18,6 +19,6 @@ import 'login.dart';
 void main() {
   runApp(MaterialApp(
     title: 'Ứng dụng của tôi',
-    home: edit_profile(),
+    home: main_profile(),
   ));
 }
